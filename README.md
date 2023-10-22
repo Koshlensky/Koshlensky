@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita Koshelev
+Hi ![](..https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita Koshelev
 =======================================================================================================================================
 
-Technical Writer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+Technical Writer <img src="..https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 ----------------
 
 My name is Nikita Koshelev. I was born in Penza, Russian Federation. I am a technical writer at a Russian IT-company. I am developing documentation for domestic software according to IEEE, ISO, GOST 2, 19, 34 and internal standards. At the moment I work remotely from home. I also write scientific articles on the topics of neural networks, resource-saving energy and solid state physics.
