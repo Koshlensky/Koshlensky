@@ -1,8 +1,5 @@
-Hi ![](..https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita Koshelev
+Hi! My name is Nikita Koshelev
 =======================================================================================================================================
-
-Technical Writer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
-----------------
 
 My name is Nikita Koshelev. I was born in Penza, Russian Federation. I am a technical writer at a Russian IT-company. I am developing documentation for domestic software according to IEEE, ISO, GOST 2, 19, 34 and internal standards. At the moment I work remotely from home. I also write scientific articles on the topics of neural networks, resource-saving energy and solid state physics.
 
@@ -35,14 +32,6 @@ My name is Nikita Koshelev. I was born in Penza, Russian Federation. I am a tech
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Koshlensky"><img src="https://github-readme-stats.vercel.app/api?username=Koshlensky&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true" alt="Koshlensky's GitHub stats" /></a>
-
-<table>
-  <tr>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Koshlensky&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
 
 <a href="https://github.com/Koshlensky" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koshlensky&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
