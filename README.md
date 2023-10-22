@@ -23,15 +23,10 @@ My name is Nikita Koshelev. I was born in Penza, Russian Federation. I am a tech
 ### Socials
 
 #### Russian Socials
-<p align="left"> <a href="https://t.me/Koshlensky" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" alt="telegram group" />
-<a href="https://vk.com/f1ll_zzz" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="32" height="32" alt="VK Badge"/>
-    </a>
-<a href="https://discord.com/users/koshlensky" target="_blank">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="VK Badge"/>
-    </a>
-
+<p align="left"> <a href="https://t.me/Koshlensky" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" alt="telegram group" />
+<a href="https://vk.com/f1ll_zzz" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="32" height="32" alt="VK Badge"/> </a>
+<a href="https://discord.com/users/koshlensky" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="VK Badge"/> </a>
+      
 #### English Socials
 <p align="left"> </picture> </a> <a href="https://www.github.com/Koshlensky" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nikita-koshelev-533817291/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
