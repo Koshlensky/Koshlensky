@@ -36,7 +36,13 @@ My name is Nikita Koshelev. I was born in Penza, Russian Federation. I am a tech
 
 <a href="http://www.github.com/Koshlensky"><img src="https://github-readme-stats.vercel.app/api?username=Koshlensky&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true" alt="Koshlensky's GitHub stats" /></a>
 
-<a href="http://www.github.com/Koshlensky"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Koshlensky&bg_color=171717&color=ffffff&line=ef4444&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<table>
+  <tr>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Koshlensky&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 
 <a href="https://github.com/Koshlensky" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koshlensky&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
