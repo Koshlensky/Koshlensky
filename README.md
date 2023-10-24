@@ -20,7 +20,7 @@ My name is Nikita Koshelev. I was born in Penza, Russian Federation. I am a tech
 ### Socials
 
 #### Russian Socials
-<p align="left"> <a href="https://t.me/Koshlensky" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" alt="telegram group" /> 
+<p align="left"> <a href="https://t.me/Koshlensky" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" alt="telegram group" />
 <a href="https://vk.com/koshlensky" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="32" height="32" alt="VK Badge"/> </a>
 <a href="https://discord.com/users/koshlensky" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="VK Badge"/> </a>
       
