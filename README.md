@@ -1,4 +1,4 @@
-Hi! Welcome to my profile!  
+Hi! Welcome to my profile!   
 =======================================================================================================================================
 
 My name is Nikita Koshelev. I was born in Penza, Russian Federation. I am a technical writer at a Russian IT-company. I am developing documentation for domestic software according to IEEE, ISO, GOST 2, 19, 34 and internal standards. At the moment I work remotely from home. I also write scientific articles on the topics of neural networks, resource-saving energy and solid state physics.
