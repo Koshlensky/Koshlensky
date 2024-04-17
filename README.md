@@ -5,7 +5,7 @@ My name is Nikita Koshelev. I was born in Penza, Russian Federation. I am a tech
 
 * 🌍  I'm based in Russia, Penza
 * 🖥️  See my portfolio at [eLibrary](http://www.elibrary.ru/author_profile.asp?id=1103709) (authorization required), a site for scientific citation of articles by authors of Russia and the CIS
-* 🚀  I'm currently working on [Engee](http://start.engee.com/)
+* 🚀  I'm currently working on semantic architecture project
 * 🧠  I'm learning OpenCV, Pandas, SciPy
 * 🤝  I'm open to collaborating on development of software documentation, frameworks, API and other projects in Russian and English
 * ⚡  Working with texts, a lot, meticulously, necessary
