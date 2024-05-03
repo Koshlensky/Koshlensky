@@ -3,7 +3,7 @@ Hello! Welcome to my profile!
 
 My name is Nikita Koshelev. I was born in Penza, Russian Federation. I am a technical writer at a Russian IT-company. I am developing documentation for domestic software according to IEEE, ISO, GOST 2, 19, 34 and internal standards. At the moment I work remotely from home. I also write scientific articles on the topics of neural networks, resource-saving energy and solid state physics.
 
-* 🌍  I'm based in Russia, Penza
+* 🌍  I'm based in Russia
 * 🖥️  See my portfolio at [eLibrary](http://www.elibrary.ru/author_profile.asp?id=1103709) (authorization required), a site for scientific citation of articles by authors of Russia and the CIS
 * 🚀  I'm currently working on semantic architecture project
 * 🧠  I'm learning OpenCV, Pandas, SciPy
