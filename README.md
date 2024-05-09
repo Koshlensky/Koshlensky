@@ -4,9 +4,19 @@
   </a>
 </div>
 
+<div style="text-align: center;">
+  <a href="https://github.com/vibrantfix#gh-dark-mode-only">
+    <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786&height=300&reversal=true" alt="Header" style="width: 100%;">
+  </a>
+</div>
+
+<!-- Приветствие -->
+
 <div style="display: flex; justify-content: center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%23BA5F17&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82" alt="Greetings">
 </div>
+
+<!-- Gif-файл -->
 
 <div style="float: right;">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw">
