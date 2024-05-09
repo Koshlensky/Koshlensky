@@ -10,7 +10,8 @@
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw">
 </div>
 
-* I am Nick, technical writer at a Russian IT-company.
+* I am Nick, technical writer at a Russian IT-company.<br>
+  <img align='right' src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Gif-файл с профиля Adam-pw" width="250" height="210">
 * I am developing documentation for domestic software according to API, IEEE, ISO, GOST 2, 19, 34 and internal standards.  
 * I also write scientific articles on the topics of neural networks, resource-saving energy and solid state physics, see them at [eLibrary](http://www.elibrary.ru/author_profile.asp?id=1103709) (authorization required).
 * I am open to collaborating on development of software documentation, frameworks, API and other projects both in Russian and English. You can contact me at [koshlensky@gmail.com](mailto:koshlensky@gmail.com). <br>
