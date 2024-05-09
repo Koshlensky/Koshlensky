@@ -6,7 +6,7 @@
 
 <div style="text-align: center;">
   <a href="https://github.com/vibrantfix#gh-dark-mode-only">
-    <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786&height=300&reversal=true" alt="Header" style="width: 100%;">
+    <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" style="width: 100%; transform: scaleX(-1);">
   </a>
 </div>
 
