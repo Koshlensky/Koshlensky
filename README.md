@@ -83,7 +83,7 @@
 
 <div style="text-align: center;">
   <a href="https://github.com/Koshlensky">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=3, 2, 1+-+Let's Jam!&center=true&color=BA5F17" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=3,+2,+1+-+Let's+Jam!&center=true&color=BA5F17" alt="Typing SVG">
   </a>
 </div>
 
