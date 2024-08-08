@@ -53,6 +53,8 @@
   <a href="#"><img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat" alt="PyCharm Badge"></a>
 </p>
 
+<h2 style="font-family: 'Segoe UI'; color: #BA5F17; font-weight: normal; text-align: center; font-size: 150%;">Visitors</h2>
+
 <div style="text-align: center;">
   <p
      style="mix-blend-mode: difference;">
@@ -69,8 +71,6 @@
 
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koshlensky&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages">
 </div>
-
-<h2 style="font-family: 'Segoe UI'; color: #BA5F17; font-weight: normal; text-align: center; font-size: 150%;">Visitors</h2>
 
 <div style="text-align: center;">
   <a href="https://github.com/Koshlensky">
