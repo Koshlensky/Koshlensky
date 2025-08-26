@@ -55,11 +55,8 @@
 
 <h2 style="font-family: 'Segoe UI'; color: #BA5F17; font-weight: normal; text-align: center; font-size: 150%;">Visitors</h2>
 
-<div style="text-align: center;">
-  <p
-     style="mix-blend-mode: difference;">
-    <img src="https://profile-counter.glitch.me/{Koshlensky}/count.svg" alt="Koshlensky">
-  </p>
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Koshlensky.Koshlensky&"  />
 </div>
 
 ---
