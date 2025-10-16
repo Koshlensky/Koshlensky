@@ -53,12 +53,6 @@
   <a href="#"><img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat" alt="PyCharm Badge"></a>
 </p>
 
-<h2 style="font-family: 'Segoe UI'; color: #BA5F17; font-weight: normal; text-align: center; font-size: 150%;">Visitors</h2>
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Koshlensky.Koshlensky&"  />
-</div>
-
 ---
 
 <div style="text-align: center;">
