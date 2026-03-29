@@ -8,7 +8,7 @@
   <img align='right' src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Gif-файл с профиля Adam-pw" width="250" height="230">
 * I develop documentation for domestic software according to API, IEEE, ISO, GOST 2, 19, 34, and internal standards.  
 * I also write scientific articles on neural networks, resource-saving energy and solid-state physics.
-* I am open to collaborating on the development of software documentation, frameworks, APIs, and other projects in both Russian and English. You can contact me at [koshlensky@gmail.com](mailto:koshlensky@gmail.com).
+* I am open to collaborating on the development of software documentation, frameworks, APIs, and other projects in both Russian and English.
 
 <!-- Первая секция "Programming and Markup Languages" -->
 
