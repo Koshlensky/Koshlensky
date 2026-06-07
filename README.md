@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%23BA5F17&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82" alt="Greetings">
 </div>
   
-* Technical Writer with experience in software documentation development. <br>
+* Hi, I’m Nick — a technical writer with experience in software documentation. <br>
   <img align='right' src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Gif-файл с профиля Adam-pw" width="250" height="230">
 * I create documentation for software products, APIs, and frameworks in accordance with IEEE, ISO, GOST 2, GOST 19, GOST 34, and internal documentation standards.  
 * My areas of interest also include scientific writing in the fields of neural networks, energy efficiency, and solid-state physics.
